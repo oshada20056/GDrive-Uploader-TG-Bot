@@ -1,6 +1,6 @@
 wget
 asyncio
-# pyrogram==1.4.16
+ pyrogram==1.4.16
 pyrofork
 tgcrypto
 oauth2client
